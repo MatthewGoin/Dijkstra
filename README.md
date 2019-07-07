@@ -1,2 +1,2 @@
 # Dijkstra
-Implemented a custom graph class with a Dijkstra Pathing algorithim built from scratch  
+Implemented a graph class with a Dijkstra Pathing algorithim
